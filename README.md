@@ -1,6 +1,6 @@
 believe 2
 commit
-This is sample out
+This is sample output data
 -------------------------
 {
     "Alabama": {
